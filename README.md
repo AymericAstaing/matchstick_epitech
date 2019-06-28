@@ -9,7 +9,7 @@ to build:
 
     - make / make re
     
-to launch
+to launch:
 
     - ./matchstick NbrOfLine(1 < l < 100) MaxMatchPerTurn
 
