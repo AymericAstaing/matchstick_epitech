@@ -6,5 +6,8 @@ The two players take turns; each player can, on a same line, take one or several
 The losing player is the one to take the last matchstick.
 
 to launch:
-- make / make re
-- ./matchstick NbrOfLine(1 < l < 100) MaxMatchPerTurn
+
+    - make / make re
+    - ./matchstick NbrOfLine(1 < l < 100) MaxMatchPerTurn
+
+Aymeric Astaing - EPITECH PARIS PROMO 2022
