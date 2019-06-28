@@ -7,7 +7,7 @@ The losing player is the one to take the last matchstick.
 
 to build:
 
-    - make / make re
+    make / make re
     
 to launch:
 
